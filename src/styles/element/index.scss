@@ -1,0 +1,23 @@
+/* 自定义 Element Plus 主题色 */
+:root {
+  --el-color-primary: #1baeae;
+  --el-color-success: #67c23a;
+  --el-color-warning: #e6a23c;
+  --el-color-danger: #f56c6c;
+  --el-color-info: #909399;
+}
+
+/* 自定义全局样式 */
+.el-card {
+  --el-card-border-color: #ebeef5;
+  --el-card-border-radius: 8px;
+  --el-card-padding: 16px;
+}
+
+.el-button {
+  --el-button-border-radius: 4px;
+}
+
+.el-menu {
+  --el-menu-hover-bg-color: #f5f7fa;
+} 

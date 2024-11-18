@@ -1,0 +1,16 @@
+# 清理依赖和缓存
+rm -rf node_modules
+rm yarn.lock
+yarn cache clean
+
+# 重新安装依赖
+yarn install
+
+# 启动开发服务器
+yarn dev
+
+# 创建用户相关视图的目录
+mkdir -p src/views/user
+
+# 创建几何题目图片目录
+mkdir -p public/images/geometry

@@ -1,0 +1,10 @@
+<svg width="400" height="100" xmlns="http://www.w3.org/2000/svg">
+  <!-- 正方形 -->
+  <rect x="10" y="10" width="80" height="80" fill="none" stroke="#409EFF" stroke-width="2"/>
+  <!-- 等腰三角形 -->
+  <path d="M150 10 L110 90 L190 90 Z" fill="none" stroke="#67C23A" stroke-width="2"/>
+  <!-- 长方形 -->
+  <rect x="210" y="30" width="80" height="40" fill="none" stroke="#E6A23C" stroke-width="2"/>
+  <!-- 圆形 -->
+  <circle cx="350" cy="50" r="40" fill="none" stroke="#F56C6C" stroke-width="2"/>
+</svg> 
